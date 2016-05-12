@@ -1,0 +1,4 @@
+{
+	"pollInterval": 2000,
+	"source" : "development-host"
+}
